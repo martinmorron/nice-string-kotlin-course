@@ -1,5 +1,5 @@
-##Nice String
-####A string is nice if at least two of the following conditions are satisfied:
+## Nice String
+#### A string is nice if at least two of the following conditions are satisfied:
 
 *This code it's a fork of Coursera course. This has only educational purpose*
 
